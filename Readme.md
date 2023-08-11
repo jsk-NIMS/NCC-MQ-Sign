@@ -28,5 +28,5 @@ The specification of MQ-Sign has been modified as follows:
 
 - We have added a binding technique so that a signature is identified with a unique public key and message to prevent potential attacks.
 
-- We have updates the reference code and KAT files of MQ-Sign-SR.
+- We have updated the reference code and KAT files of MQ-Sign-SR.
 
