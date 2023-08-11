@@ -22,10 +22,11 @@ The specifications of NCC-Sign has been modified as follows:
 
  
 
-The specification of NCC-Sign has been modified as follows:
+The specification of MQ-Sign has been modified as follows:
 
 - We have removed SS and RS versions (recently cyptanalyzed by Trimoska et al. and Ikematsu et al.) of our four key generations from MQ-Sign leaving the two versions, MQ-Sign-RR and MQ-Sign-SR.
 
 - We have added a binding technique so that a signature is identified with a unique public key and message to prevent potential attacks.
 
+- We have updates the reference code and KAT files of MQ-Sign-SR.
 
