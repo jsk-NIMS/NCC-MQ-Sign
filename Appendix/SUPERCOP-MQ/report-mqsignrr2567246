@@ -1,0 +1,21 @@
+mqsignrr2567246 bytes pk 328505 sk 276649 sigbuf 150 sig 150
+mqsignrr2567246 keypair 14605130...14626304...15479508
+mqsignrr2567246 sign 105962...115670...238424
+mqsignrr2567246 open 59878...65136...125812
+mqsignrr2567246 checksums 1718394b04993250d915a1839f1b5a166b7b337444b3a5599d858a7faad22e3c/a1fc3794804bf6853bc4c73a2131a03d619228afdf5041442b243326d2186a68
+mqsignrr2567246 try 181264 crypto_sign/mqsignrr2567246/avx2 gcc_-march=native_-mtune=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 186596 crypto_sign/mqsignrr2567246/avx2 clang_-march=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 194814 crypto_sign/mqsignrr2567246/avx2 clang_-march=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 212736 crypto_sign/mqsignrr2567246/avx2 clang_-march=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 216954 crypto_sign/mqsignrr2567246/avx2 gcc_-march=native_-mtune=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 220740 crypto_sign/mqsignrr2567246/avx2 gcc_-march=native_-mtune=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 222752 crypto_sign/mqsignrr2567246/avx2 clang_-march=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 1669216 crypto_sign/mqsignrr2567246/ref gcc_-march=native_-mtune=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 2997960 crypto_sign/mqsignrr2567246/ref clang_-march=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 2998070 crypto_sign/mqsignrr2567246/ref clang_-march=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 3091914 crypto_sign/mqsignrr2567246/ref clang_-mcpu=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 4214362 crypto_sign/mqsignrr2567246/ref clang_-march=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 4243752 crypto_sign/mqsignrr2567246/ref clang_-march=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 4245378 crypto_sign/mqsignrr2567246/ref gcc_-march=native_-mtune=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 4651154 crypto_sign/mqsignrr2567246/ref gcc_-march=native_-mtune=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignrr2567246 try 6560044 crypto_sign/mqsignrr2567246/ref gcc_-march=native_-mtune=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f

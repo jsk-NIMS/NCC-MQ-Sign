@@ -1,0 +1,14 @@
+mqsignlr2567246 bytes pk 328441 sk 160881 sigbuf 150 sig 150
+mqsignlr2567246 keypair 91184032...91205738...91809292
+mqsignlr2567246 sign 450214...461662...582014
+mqsignlr2567246 open 749310...755228...813008
+mqsignlr2567246 checksums 3b2bfe76eca1913cc1252a69a1b4015af36a9a14054064ef4dd3000b7649b968/3fa49ca0f367d6b36aa4f1f1257382423ac21c07cd6844a6bfff1f45d401446d
+mqsignlr2567246 try 1240048 crypto_sign/mqsignlr2567246/ref gcc_-march=native_-mtune=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 2575192 crypto_sign/mqsignlr2567246/ref clang_-march=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 2580122 crypto_sign/mqsignlr2567246/ref clang_-march=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 2636232 crypto_sign/mqsignlr2567246/ref clang_-mcpu=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 3472628 crypto_sign/mqsignlr2567246/ref clang_-march=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 3504976 crypto_sign/mqsignlr2567246/ref gcc_-march=native_-mtune=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 3511946 crypto_sign/mqsignlr2567246/ref clang_-march=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 3948666 crypto_sign/mqsignlr2567246/ref gcc_-march=native_-mtune=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+mqsignlr2567246 try 5291068 crypto_sign/mqsignlr2567246/ref gcc_-march=native_-mtune=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
