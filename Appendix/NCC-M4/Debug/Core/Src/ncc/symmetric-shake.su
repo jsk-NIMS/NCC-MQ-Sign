@@ -1,0 +1,2 @@
+../Core/Src/ncc/symmetric-shake.c:5:6:NIMS_shake128_stream_init	24	static
+../Core/Src/ncc/symmetric-shake.c:19:6:NIMS_shake256_stream_init	24	static

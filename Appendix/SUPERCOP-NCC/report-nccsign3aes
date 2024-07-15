@@ -1,0 +1,22 @@
+nccsign3 bytes pk 2336 sk 3552 sigbuf 3872 sig 3872
+nccsign3 keypair 181602...183628...503018
+nccsign3 sign 404372...611250...927740
+nccsign3 open 223830...235934...322084
+nccsign3 checksums 80ac855ec032fc610c6cf9a22e141518956e9f26e391db40b2f15ef481d32c28/1f8998b09f4d6cf332396970bc8d47f4ab8561e8a4c5139bcefdfa3a50c34319
+nccsign3 try 515326 crypto_sign/nccsign3/avx2 clang_-march=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 548528 crypto_sign/nccsign3/avx2 clang_-march=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 552780 crypto_sign/nccsign3/avx2 clang_-march=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 563310 crypto_sign/nccsign3/avx2 gcc_-march=native_-mtune=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 573876 crypto_sign/nccsign3/avx2 gcc_-march=native_-mtune=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 587390 crypto_sign/nccsign3/avx2 clang_-march=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 587498 crypto_sign/nccsign3/avx2 gcc_-march=native_-mtune=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 639092 crypto_sign/nccsign3/avx2 gcc_-march=native_-mtune=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1469528 crypto_sign/nccsign3/ref clang_-march=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1512020 crypto_sign/nccsign3/ref clang_-march=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1520402 crypto_sign/nccsign3/ref clang_-march=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1536356 crypto_sign/nccsign3/ref gcc_-march=native_-mtune=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1590790 crypto_sign/nccsign3/ref clang_-march=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1609624 crypto_sign/nccsign3/ref clang_-mcpu=native_-O3_-gdwarf-4_-Wall_-Wextra_-fwrapv_-Qunused-arguments_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1650174 crypto_sign/nccsign3/ref gcc_-march=native_-mtune=native_-O2_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 1737062 crypto_sign/nccsign3/ref gcc_-march=native_-mtune=native_-O_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f
+nccsign3 try 2493826 crypto_sign/nccsign3/ref gcc_-march=native_-mtune=native_-Os_-gdwarf-4_-Wall_-Wextra_-fwrapv_-fPIC_-fPIE_-mno-avx512f

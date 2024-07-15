@@ -1,0 +1,7 @@
+../Core/Src/ncc/reduce.c:10:9:montgomery_reduce	0	static
+../Core/Src/ncc/reduce.c:19:9:caddq	0	static
+../Core/Src/ncc/reduce.c:24:9:csubq	0	static
+../Core/Src/ncc/reduce.c:36:9:mod_add	8	static
+../Core/Src/ncc/reduce.c:48:9:mod_sub	8	static
+../Core/Src/ncc/reduce.c:70:9:reduce32	0	static
+../Core/Src/ncc/reduce.c:30:9:freeze	8	static

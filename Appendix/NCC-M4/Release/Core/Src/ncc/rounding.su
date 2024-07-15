@@ -1,0 +1,4 @@
+../Core/Src/ncc/rounding.c:4:9:power2round	0	static
+../Core/Src/ncc/rounding.c:28:9:decompose	8	static
+../Core/Src/ncc/rounding.c:49:14:make_hint	0	static
+../Core/Src/ncc/rounding.c:56:9:use_hint	16	static

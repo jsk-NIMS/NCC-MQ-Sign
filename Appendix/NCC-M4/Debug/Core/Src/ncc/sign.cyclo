@@ -1,0 +1,5 @@
+../Core/Src/ncc/sign.c:12:5:crypto_sign_keypair	1
+../Core/Src/ncc/sign.c:55:5:crypto_sign_signature	5
+../Core/Src/ncc/sign.c:169:5:crypto_sign	3
+../Core/Src/ncc/sign.c:184:5:crypto_sign_verify	6
+../Core/Src/ncc/sign.c:252:5:crypto_sign_open	6

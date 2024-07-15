@@ -1,0 +1,7 @@
+../Core/Src/ncc/reduce.c:10:9:montgomery_reduce	1
+../Core/Src/ncc/reduce.c:19:9:caddq	1
+../Core/Src/ncc/reduce.c:24:9:csubq	1
+../Core/Src/ncc/reduce.c:36:9:mod_add	1
+../Core/Src/ncc/reduce.c:48:9:mod_sub	1
+../Core/Src/ncc/reduce.c:70:9:reduce32	1
+../Core/Src/ncc/reduce.c:30:9:freeze	1
