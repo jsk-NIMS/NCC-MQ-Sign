@@ -2,6 +2,8 @@
 
 This includes supporting documents of NCC-Sign and MQ-Sign and its implementation codes. They are submitted to 'Korean Post-Quantum Cryptography Competition' (www.kpqc.or.kr). Due to memory limitations, we upload KAT files of MQ-Sign at the security level 1.
 
+### The latest updates are available in [here.](https://github.com/NIMS-Cryptography/NCC-MQ-Sign)
+
  
 
 ## Updates
